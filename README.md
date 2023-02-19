@@ -1,16 +1,14 @@
-### Hi there 👋
+# Halo semua! 
 
-<!--
-**Faishal25/Faishal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Muhammad Faishal Azhar Suherman**
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa Semester 8** di Universitas Padjadjaran
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya Aktif dalam Organisasi Di Bidang Akademik maupun non Akademik
+
+Saya Memiliki Pengalaman magang dan studi dibidang **Internet Of Things** dan **Web Development** Serta Aktif dalam berbagai Project Baik Diperkuliahan maupun Industri
+
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-faishal-azhar-suherman-31489821a) ku ya.
+
